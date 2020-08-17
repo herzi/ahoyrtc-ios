@@ -1,6 +1,0 @@
-framework module AhoyKit {
-  umbrella header "AhoyKit.h"
-
-  export *
-  module * { export * }
-}
